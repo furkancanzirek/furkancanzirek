@@ -41,7 +41,6 @@
 ![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Vue Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![.Net Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Express.js Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySql Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -49,8 +48,5 @@
 
 <hr>
 
-<!-- <p align="center""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frkncnzirek&show_icons=true&locale=en&layout=compact" alt="furkancanzirek" /></p> -->
 
-<p align="center"> <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=frkncnzirek&show_icons=true&locale=en&theme=radical alt="furkancanzirek" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frkncnzirek" alt="furkancanzirek" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkancanzirek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
