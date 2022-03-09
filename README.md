@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=furkancanzirek&label=Profile%20views&color=24b6ff&style=plastic" alt="furkancanzirek" /> </p>
 
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently learning **React.JS** and **Vue.JS**
 
 - 👨‍💻 All of my projects are available at [in/frkncnzirek]
 - (https://www.linkedin.com/in/frkncnzirek/)
@@ -39,6 +39,7 @@
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Vue Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![.Net Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Express.js Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
