@@ -3,12 +3,12 @@
 
 <p align="center"> <img width="70%" height="420" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/> </p>
 
-<a href="https://www.furkancanzirek.me/"> <p>furkancanzirek.com</p> </a>
+
 <h3 align="center">A passionate software developer from Turkey</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=furkancanzirek&label=Profile%20views&color=24b6ff&style=plastic" alt="furkancanzirek" /> </p>
 
-
+- <a href="https://www.furkancanzirek.me/" target="blank"> <p>furkancanzirek.com</p> </a>
 - 🌱 I’m currently dealing with **React.JS** and **Vue.JS**
 
 - 👨‍💻 All of my projects are available at [in/frkncnzirek]
