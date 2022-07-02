@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=furkancanzirek&label=Profile%20views&color=24b6ff&style=plastic" alt="furkancanzirek" /> </p>
 
 
-- 🌱 I’m currently learning **React.JS** and **Vue.JS**
+- 🌱 I’m currently dealing with **React.JS** and **Vue.JS**
 
 - 👨‍💻 All of my projects are available at [in/frkncnzirek]
 - (https://www.linkedin.com/in/frkncnzirek/)
