@@ -8,7 +8,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=furkancanzirek&label=Profile%20views&color=24b6ff&style=plastic" alt="furkancanzirek" /> </p>
 
-- <a href="https://www.furkancanzirek.me/" target="blank"> <p>furkancanzirek.com</p> </a>
+- <a href="https://www.furkancanzirek.me/" target="blank"> <p>furkancanzirek.me</p> </a>
 - 🌱 I’m currently dealing with **React.JS** and **Vue.JS**
 
 - 👨‍💻 All of my projects are available at [in/frkncnzirek]
